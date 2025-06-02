@@ -1,4 +1,11 @@
 deployments:
+deploymentGating:
+    enabled: true # to enable the feature
+    retry: 50 # run poll action 50 times
+    sleep: 30 # wait 30 seconds between each poll
+    environments: # select the environments you'd like to use with this feature
+    - Development
+    - Production
   services:
     ids:
     - b: b:YXJpOmNsb3VkOmdyYXBoOjpzZXJ2aWNlLzljZTM1MmJmLWRkNWEtNDQ3OS1hNGI5LWE2ZGVjYzMxNzI5ZS8yODg4MzE4Yy00MDAwLTExZjAtODE2Yi0xMjJmYTYwYWI1M2Q=
