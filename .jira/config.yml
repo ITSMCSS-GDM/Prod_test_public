@@ -1,12 +1,12 @@
 deployments:
-deploymentGating:
-    enabled: true # to enable the feature
-    retry: 200 
+  deploymentGating:
+    enabled: true 
+    retry: 200  
     sleep: 10 
-    environments: # select the environments you'd like to use with this feature
+    environments: 
     - Development
+    - Testing
     - Production
-    - Test
   services:
     ids:
-    - b: b:YXJpOmNsb3VkOmdyYXBoOjpzZXJ2aWNlLzljZTM1MmJmLWRkNWEtNDQ3OS1hNGI5LWE2ZGVjYzMxNzI5ZS8yODg4MzE4Yy00MDAwLTExZjAtODE2Yi0xMjJmYTYwYWI1M2Q=
+    - b:YXJpOmNsb3VkOmdyYXBoOjpzZXJ2aWNlLzljZTM1MmJmLWRkNWEtNDQ3OS1hNGI5LWE2ZGVjYzMxNzI5ZS8yODg4MzE4Yy00MDAwLTExZjAtODE2Yi0xMjJmYTYwYWI1M2Q=
