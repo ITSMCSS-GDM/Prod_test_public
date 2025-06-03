@@ -1,7 +1,7 @@
 {
 ##Add stuff between these lines:
 # This is mmy new code
-# Test
+# Test modifying code
 ##Stop
   "database": {
     "host": "localhost",
