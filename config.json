@@ -2,6 +2,7 @@
 ##Add stuff between these lines:
 # This is mmy new code
 # Test modifying code
+# updating yml
 ##Stop
   "database": {
     "host": "localhost",
