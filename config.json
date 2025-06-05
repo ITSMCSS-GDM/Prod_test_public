@@ -1,8 +1,6 @@
 {
 ##Add stuff between these lines:
-# This is mmy new code
-# Test modifying code
-# New test  
+# This is mmy new code: update for change request
 ##Stop
   "database": {
     "host": "localhost",
