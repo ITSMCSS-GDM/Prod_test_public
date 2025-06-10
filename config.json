@@ -1,7 +1,7 @@
 {
 ##Add stuff between these lines:
 # This is mmy new code: update for change request
-# modified code for change request
+# modified code for change request, disabled deployment gating in change jsm
 # update
 ##Stop
   "database": {
