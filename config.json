@@ -24,7 +24,7 @@
     "enableTwoFactorAuth": false
   },
   "api": {
-    "baseUrl": "https://api.yourapp.com",
+    "baseUrl": "https://api.yourappurl.com",
     "timeout": 5000
   }
 }
