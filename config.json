@@ -6,7 +6,7 @@
 ##Stop
   "database": {
     "host": "localhost",
-    "port": 5432,
+    "port": 1822,
     "name": "customer_db",
     "user": "db_user1",
     "password": "securepassword"
