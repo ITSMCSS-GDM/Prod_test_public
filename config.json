@@ -9,7 +9,7 @@
     "port": 1822,
     "name": "customers_db",
     "user": "db_user1",
-    "password": "securepassword"
+    "password": "securepassword123"
   },
   "authentication": {
     "jwtSecret": "your_jwt_secret_key",
